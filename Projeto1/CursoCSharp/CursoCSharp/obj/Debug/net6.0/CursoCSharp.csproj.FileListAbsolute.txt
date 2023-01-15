@@ -1,0 +1,15 @@
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\Gabi\Desktop\Estudos C# e banco de dados\C# Completo Do Básico ao Avançado!\Projetos de aula\Projeto1\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
